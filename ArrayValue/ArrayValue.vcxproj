@@ -129,13 +129,11 @@
   <ItemGroup>
     <ClInclude Include="ArrayDataException.h" />
     <ClInclude Include="ArraySizeException.h" />
-    <ClInclude Include="ArrayValueCalculator.h" />
     <ClInclude Include="Exception.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ArrayDataException.cpp" />
     <ClCompile Include="ArraySizeException.cpp" />
-    <ClCompile Include="ArrayValueCalculator.cpp" />
     <ClCompile Include="Exception.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>

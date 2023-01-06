@@ -15,5 +15,5 @@ string ArrayDataException::GetMessage()
 
 void ArrayDataException::GetExcpetion()
 {
-    cout << "ArrayDataException: " << message << endl;
+    cout << "ArrayDataException" << endl;
 }

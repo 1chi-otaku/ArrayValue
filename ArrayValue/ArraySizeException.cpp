@@ -15,5 +15,5 @@ string ArraySizeException::GetMessage()
 
 void ArraySizeException::GetExcpetion()
 {
-	cout << "ArraySizeException: " << message << endl;
+	cout << "ArraySizeException" << endl;
 }
